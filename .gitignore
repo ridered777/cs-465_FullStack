@@ -60,6 +60,7 @@ typings/
 # next.js build output
 .next
 
+# VSCode Ignore Files
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
