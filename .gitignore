@@ -70,3 +70,7 @@ typings/
 
 # Local History for Visual Studio Code
 .history/
+
+# dotenv environment files
+.env
+.env.test
